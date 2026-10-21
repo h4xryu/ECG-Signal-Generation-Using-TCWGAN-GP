@@ -13,7 +13,7 @@ The generator transforms a random latent vector into a 200-sample ECG signal usi
 
 ![WGAN-GP Architecture](images/wgan_gp_architecture.png)
 
-The WGAN-GP framework consists of a generator \(G_\theta(z)\), which generates synthetic samples from random noise \(z\), and a critic \(f_W(x)\), which evaluates real and generated samples. The critic is trained using the Wasserstein objective with a gradient penalty.
+The WGAN-GP framework consists of a generator $G_\theta(z)$, which generates synthetic samples from random noise $z$, and a critic $f_W(x)$, which evaluates real and generated samples. The critic is trained using the Wasserstein objective with a gradient penalty.
 ## Key Features
 
 - **Signal length:** 200 samples
