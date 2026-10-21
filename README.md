@@ -1,4 +1,5 @@
-# ECG_TCWGAN-GP
+# ECG-Signal-Generation-Using-TCWGAN-GP
+
 
 ## ECG Generation Using a Transformer-Based GAN
 
